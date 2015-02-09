@@ -1,38 +1,29 @@
-title:            xcv58
-description:      "Time is long but life is short"
+title:            darrenbor.land
+description:      "darrenbor.land"
 logo:             logo.png
-disqus_shortname: xcv58
+disqus_shortname: darrenborland
 share:            true
 dropcap:          true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:              ""
-# url:              http://xcv58.com
+# url:              http://darrenbor.land
 
 # Owner/author information
 owner:
-  name:           xcv58
+  name:           Darren Borland
   avatar:         xcv58.jpg
-  email:          i@xcv58.com
+  email:          darren.borland@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Live long and prosper
+  description:    Sample Owner Description
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        xcv58
-  facebook:       chenyihonglove
-  github:         xcv58
-  # instagram:      xcv58
-  # renren:         chenyihonglove
-  weibo:          2149547674
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://google.com/+陈毅鸿xcv58
+  twitter:        darrenborland
+  facebook:       darren.borland
+  github:         daddydarren
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  UA-54927045-1
-# kissmetrics:  babbd2497fb43d33d67943eee8d32952844ef3d5
-# google_verify:
-# # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify:
+# google_analytics:  UA-54927045-1
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -47,7 +38,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Dublin
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -73,8 +64,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://xcv58.github.io/Notepad/'
-  relativeLinks: 'http://xcv58.github.io/Notepad/links.jsonp'
+  siteurl: 'http://daddydarren.github.io/Notepad/'
+  relativeLinks: 'http://daddydarren.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
     _posts:
