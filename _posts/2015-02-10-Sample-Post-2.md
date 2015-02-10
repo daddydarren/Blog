@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sample Post"
-description: "Sample Post Description"
+title: "Sample Post 2"
+description: "Sample Post 2 Description"
 category: Sample Category
 tags: [Sample Tag 1]
 imagefeature:
@@ -11,4 +11,4 @@ comments: true
 featured: true
 ---
 
-Sample Post text
+Sample Post 2 text
