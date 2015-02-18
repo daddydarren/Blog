@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: darrenbor.land
-logo: site.logoInverted
+title: Hi there!
 tags: [about]
 imagefeature: fourseasons.jpg
 chart: true
