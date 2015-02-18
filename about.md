@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: darrenbor.land
+logo: site.logoInverted
 tags: [about]
 imagefeature: fourseasons.jpg
 chart: true
@@ -22,4 +23,4 @@ chart: true
 {% endfor %}
 
 
-I'm **darrenbor.land**, and this is my personal blog. 
+I'm **darrenbor.land**, and this is my personal blog.
