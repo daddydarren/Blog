@@ -1,4 +1,4 @@
-title:            blog-tastic
+title:            Blogging a dead horse...
 description:      "darrenbor.land"
 logo:             logo.png
 disqus_shortname: darrenborland
@@ -16,7 +16,7 @@ owner:
   avatar:         xcv58.jpg
   email:          darren.borland@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Sample Owner Description
+  description:    A cool dude indeed
   # Social networking links used in footer. Update and remove as you like.
   twitter:        darrenborland
   facebook:       darren.borland
